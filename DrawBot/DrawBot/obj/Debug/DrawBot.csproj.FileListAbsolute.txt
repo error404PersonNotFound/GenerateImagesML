@@ -1,0 +1,10 @@
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.csprojResolveAssemblyReference.cache
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.GANmain.resources
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.Properties.Resources.resources
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.csproj.GenerateResource.Cache
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.csproj.CoreCompileInputs.cache
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\bin\Debug\DrawBot.exe.config
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\bin\Debug\DrawBot.exe
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\bin\Debug\DrawBot.pdb
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.exe
+C:\Users\aaaaa\Desktop\VS 2017\DrawBot\DrawBot\obj\Debug\DrawBot.pdb
